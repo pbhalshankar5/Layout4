@@ -1,0 +1,49 @@
+body,h1,h2,h3,h4,h5,h6,ol,ul,a{
+	margin: 0;
+	padding: 0;	
+	
+}
+body{
+	background-color: #f7f3ee;
+}
+.container{
+	width: 635px;
+	margin: 0 auto;
+	font-family: 'Fredoka One', cursive;
+}
+.logo_wrapper{
+	text-align: center;
+	padding: 33px 0 35px;
+}
+.box{
+	padding: 35px 90px;
+	margin: 0 0 50px 0;
+	border-radius: 10px;
+	background-color: white;	
+}
+.box img{
+	padding: 0 80px 20px;
+}
+.box h1{
+	text-align:center;
+	font-size: 33px;
+	color: #3b3b3b;
+	background-color: white;	
+}
+.box p{
+	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 19px;
+	color: #5f6a94;
+}
+.box button{
+	width: 140px;
+	height: 50px;
+	margin: 28px 160px 32px;
+	border-radius: 10px;
+	background-color: #f88413;
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 21px;
+	border: none;
+}
